@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "321953302309",
+    "project_id": "pbm-fbase",
+    "storage_bucket": "pbm-fbase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321953302309:android:af7a9888423e380239bccc",
+        "android_client_info": {
+          "package_name": "com.example.pbma7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321953302309-pu5l0v1hncq8sak7uu535ov9mfa3v0k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEe8kr4kTaeLH0rnhaArIY_MavT78yLnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321953302309-pu5l0v1hncq8sak7uu535ov9mfa3v0k8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
